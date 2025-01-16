@@ -1,7 +1,6 @@
 # Tic-Tac-Toe Game 🎮
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tic-tac-toe-game?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tic-tac-toe-game?style=social)
----
+![GitHub stars]
+![GitHub forks]
 
  ## 📖 Description
 
