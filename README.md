@@ -10,7 +10,7 @@
 
 Below is a preview of the game interface:
 
-![Tic-Tac-Toe Game Preview](./path/to/screenshot.png)  
+![Tic-Tac-Toe Game Preview](Screenshot%202025-01-16%20202650.png) 
 ---
 
 ## 💻 Requirements
