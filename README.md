@@ -1,12 +1,9 @@
 # Tic-Tac-Toe Game 🎮
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/tic-tac-toe-game)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/tic-tac-toe-game)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/tic-tac-toe-game?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/tic-tac-toe-game?style=social)
 ---
 
-## 📖 Description
+ ## 📖 Description
 
   The **Tic-Tac-Toe Game** is a simple and fun project developed using **HTML**, **CSS**, and **JavaScript**. It was created as a recreational project when my friends and I were bored. This game allows two 
   players to play the classic Tic-Tac-Toe game directly in their browser.
