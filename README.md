@@ -43,8 +43,8 @@ Before you begin, ensure you have the following installed:
 ---    
 ## 📦 Project Structure
 
-  - index.html       # Main HTML file
-  - style.css        # CSS for styling
+  - index.html        # Main HTML file
+  - style.css         # CSS for styling
   -  script.js        # JavaScript for game logic
   -  assets/          # Folder for any additional assets (e.g., images)
 
