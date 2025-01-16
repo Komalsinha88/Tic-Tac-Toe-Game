@@ -42,12 +42,11 @@ Before you begin, ensure you have the following installed:
 
 ---    
 ## 📦 Project Structure
-tic-tac-toe-game
-│
-├── index.html       # Main HTML file
-├── style.css        # CSS for styling
-├── script.js        # JavaScript for game logic
-└── assets/          # Folder for any additional assets (e.g., images)
+
+  - index.html       # Main HTML file
+  - style.css        # CSS for styling
+  -  script.js        # JavaScript for game logic
+  -  assets/          # Folder for any additional assets (e.g., images)
 
 ---
 ## 🛠️ Technologies Used
