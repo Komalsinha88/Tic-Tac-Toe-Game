@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
    ```
 2. Navigate to the project directory:
  ```bash
-cd tic-tac-toe-game
+  cd tic-tac-toe-game
  ```
 3. Open the index.html file in any modern browser.
 
