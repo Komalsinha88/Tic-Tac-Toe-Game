@@ -28,9 +28,9 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/yourusername/tic-tac-toe-game.git
    ```
 2. Navigate to the project directory:
- ```bash
+  ```bash
   cd tic-tac-toe-game
- ```
+  ```
 3. Open the index.html file in any modern browser.
 
 ---
