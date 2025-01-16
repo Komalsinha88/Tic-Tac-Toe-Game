@@ -42,7 +42,7 @@ Before you begin, ensure you have the following installed:
 
 ---    
 ## 📦 Project Structure
-tic-tac-toe-game/
+tic-tac-toe-game
 │
 ├── index.html       # Main HTML file
 ├── style.css        # CSS for styling
