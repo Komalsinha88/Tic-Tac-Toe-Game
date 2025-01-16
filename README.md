@@ -1,6 +1,4 @@
 # Tic-Tac-Toe Game 🎮
-![GitHub stars]
-![GitHub forks]
 
  ## 📖 Description
 
