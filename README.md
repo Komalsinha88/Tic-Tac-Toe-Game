@@ -3,8 +3,8 @@
 
  ## 📖 Description
 
-   ##### The Tic-Tac-Toe Game is a simple and fun project developed using HTML, CSS, and JavaScript. It was created as a recreational project when my friends and I were bored. This game allows two 
-   players to play the classic Tic-Tac-Toe game directly in their browser.
+   #### The Tic-Tac-Toe Game is a simple and fun project developed using HTML, CSS, and JavaScript. It was created as a recreational project when my friends and I were bored. This game allows two 
+   #### players to play the classic Tic-Tac-Toe game directly in their browser.
  --- 
 
 ## 🎨 Visuals
